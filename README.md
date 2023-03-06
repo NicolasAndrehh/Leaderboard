@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Webpack</b></h1>
+  <h1><b>Leaderboard</b></h1>
 
 </div>
 
@@ -31,10 +31,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Webpack <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
 
-**Webpack** project is about setting up a webpack boilerplate.
+**Leaderboard** website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +71,7 @@
 
 
 - **[This project use Webpack]**
-- **[This project does a correct use of GitHub Flows]**
+- **[This project does a correct use of GitFlows]**
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
@@ -79,7 +79,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Webpack - Live Demo](https://nicolasandrehh.github.io/webpack/)
+[Leaderboard - Live Demo](https://nicolasandrehh.github.io/Leaderboard/)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
@@ -107,7 +107,7 @@ Example command:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:NicolasAndrehh/Webpack-Boilerplate.git
+  git clone git@github.com:NicolasAndrehh/Leaderboard.git
 ```
 
 ### Install
