@@ -18,7 +18,8 @@ body {
   gap: 5rem;
 }
 
-.leaderboard-section, .leaderboard-form-section {
+.leaderboard-section,
+.leaderboard-form-section {
   display: flex;
   flex-direction: column;
   padding: 2rem;
@@ -29,7 +30,6 @@ body {
 
 // Leaderboard section
 .leaderboard-section {
-
   .header {
     display: flex;
     gap: 3rem;
@@ -59,13 +59,11 @@ body {
     :nth-child(odd) {
       background-color: #cacaca;
     }
-    
   }
 }
 
 // Leaderboard form section
 .leaderboard-form-section {
-
   .leaderboard-form {
     display: flex;
     flex-direction: column;
