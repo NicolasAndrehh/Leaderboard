@@ -27,7 +27,7 @@ const refreshScores = () => {
       // Insert list elements to leaderboard
       leaderboardTable.insertAdjacentHTML('afterbegin', scores);
     })
-    .catch((error) => console.error(error));
+    .catch((error) => error);
 };
 
 // Send new data function

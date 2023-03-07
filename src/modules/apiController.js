@@ -10,7 +10,6 @@ const getScores = async (url) => {
     const data = await response.json();
     return data;
   } catch (error) {
-    console.error('Error:', error);
     return error;
   }
 };
@@ -33,7 +32,6 @@ const sendNewScore = async (url, score) => {
     const data = await response.json();
     return data;
   } catch (error) {
-    console.error('Error:', error);
     return error;
   }
 };
